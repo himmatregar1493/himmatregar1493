@@ -14,10 +14,10 @@ Welcome to my GitHub profile! I’m a passionate YouTuber, freelancer, and tech 
 
 ## 🛠️ Skills & Technologies
 
-- **Languages:** JavaScript, PHP, Python
+- **Languages:** JavaScript, PHP, 
 - **Frameworks:** Laravel, Node.js, Next.js
 - **Platforms:** CRM, LMS, CMS, Custom Web Apps
-- **Cloud & DevOps:** AWS, Docker
+- **Cloud & DevOps:** AWS, Docker, Kubernetes , s3, route 53 , ec2 , 
 - **Databases:** MySQL, MongoDB
 - **UI:** Tailwind CSS, React
 
