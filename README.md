@@ -35,20 +35,19 @@ Welcome to my GitHub profile! I’m a passionate YouTuber, freelancer, and tech 
 
 ## 🎥 YouTube & Social
 
-- [YouTube Channel](https://youtube.com/@yourchannel) <!-- Update with your channel link -->
-- [LinkedIn](https://linkedin.com/in/himmatregar1493)
-- [Twitter](https://twitter.com/yourusername) <!-- Update with your handle -->
-- [Portfolio](https://yourwebsite.com) <!-- If available -->
+- [YouTube Channel](https://www.youtube.com/@allroundtutorialinhindi5064) <!-- Update with your channel link -->
+- [LinkedIn](https://www.linkedin.com/in/himmat-regar-40a397179/)
+- [Twitter](https://x.com/HimmatRegar1036) <!-- Update with your handle -->
+- [Portfolio](https://launchidea.in/) <!-- If available -->
 
 ---
 
 ## 🏆 Achievements & Interests
 
-- AWS Certified Solutions Architect
 - Managed and scaled multiple tech teams
 - Built and launched multiple CRM, LMS, CMS, and custom websites
 - Open-source contributor
-- Passionate about civic tech, startups, and digital transformation
+- Passionate about civictech, startups, and digital transformation
 
 ---
 
